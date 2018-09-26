@@ -1,1 +1,4 @@
 *.ipynb_checkpoints
+
+submission.csv
+xgbsubmission.csv
