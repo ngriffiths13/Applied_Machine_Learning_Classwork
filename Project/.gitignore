@@ -1,0 +1,4 @@
+*.pkl
+*.txt
+*.tar
+*.ipynb_checkpoints
